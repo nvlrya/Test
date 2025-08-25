@@ -1,6 +1,6 @@
 # Test
 
-``query
+``sql
 CREATE DATABASE CourseNet
 
 USE CourseNet
